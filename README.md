@@ -32,13 +32,13 @@ The app will allow you to do the following:
 Internal App ScreenShots:
 -----------
  **- Home Page:**
-<img src="AppScreenShots/HomePage.PNG"></img>
+<img src="AppScreenShots/HomePage.png"></img>
  **- Cryptocurrencies Page:**
-<img src="AppScreenShots/Cryptocurrencies.PNG"></img>
+<img src="AppScreenShots/Cryptocurrencies.png"></img>
  **- Details Page:**
-<img src="AppScreenShots/Details.PNG"></img>
+<img src="AppScreenShots/Details.png"></img>
  **- Exchanges Page:**
-<img src="AppScreenShots/Exchanges.PNG"></img>
+<img src="AppScreenShots/Exchanges.png"></img>
  **- News Page:**
-<img src="AppScreenShots/News.PNG"></img>
+<img src="AppScreenShots/News.png"></img>
 
