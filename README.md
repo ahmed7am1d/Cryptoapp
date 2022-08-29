@@ -7,6 +7,7 @@ App Inforamtion:
 `App Name:` CryptoWorld.<br>
 `Created By:` Ahmed Al-Doori.<br>
 `Front-End Techs:` HTML5, CSS3, JavaScript, ReactJS, Ant Design library, Chart.JS <br>
+`App Link:` https://discovercrypto.netlify.app/
 --------
 The app will allow you to do the following:
  - Searching for Cryptocurrencies 
