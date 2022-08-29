@@ -21,6 +21,7 @@ The app will allow you to do the following:
  - IDE that is able to react projects
  - Your own API Key from RapidAPI website (search for it) and register.
  - NodeJS run time 
+ 
  Setup Instructions:
  ------------
  <strong>1-</strong> Download the GitRepo as Zip or Pull it to your local repo<br>
